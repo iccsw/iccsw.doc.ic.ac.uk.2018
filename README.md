@@ -1,4 +1,4 @@
-# iccsw.doc.ic.ac.uk/2017
+# iccsw.doc.ic.ac.uk/2018
 
 Powered by [Node.js](http://nodejs.org/) and
 [Wintersmith](http://jnordberg.github.com/wintersmith/).

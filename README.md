@@ -32,7 +32,7 @@ This will launch a mini webserver hosting the generated content which you can
 use to test your changes. It will automatically regenerate the pages when you
 modify files so you don't need to start/stop this when you change source files.
 
-The URL is ``http://localhost:8080/2015/index.html``.
+The URL is ``http://localhost:8080/2018/index.html``.
 
 ## Deploying
 

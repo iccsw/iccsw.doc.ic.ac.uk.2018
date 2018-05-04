@@ -7,11 +7,15 @@ template: page.jade
 
 In alphabetical order:
 
+* [Ahmad Alnafessah](https://www.linkedin.com/in/eng-ahmad-alnafessah-41931a15/)
 * [Pamela Bezerra](http://wp.doc.ic.ac.uk/aese/person/pamela/)
+* [Donato Clun](https://www.linkedin.com/in/donatoclun/?locale=en_US)
 * [Oana Cocarascu](https://www.doc.ic.ac.uk/~oc511/)
+* [Aydan Gasimova](https://biomedia.doc.ic.ac.uk/person/aydan-gasimova/)
 * [Eva Graversen](http://mrg.doc.ic.ac.uk/people/eva-graversen/)
 * [Kyriacos Nikiforou](http://www.doc.ic.ac.uk/~kn910/)
 * [Simon Olofsson](https://www.doc.ic.ac.uk/~so2015/)
+* [Edoardo Pirovano](https://www.doc.ic.ac.uk/~ep2016/)
 * [Mengjiao Wang](https://ibug.doc.ic.ac.uk/people/mwang)
 * [Shale Xiong](http://www.doc.ic.ac.uk/~sx14/)
 

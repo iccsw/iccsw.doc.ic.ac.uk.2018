@@ -13,10 +13,7 @@ While most conferences and workshops in academia solely cater for specific resea
 
 ### The ICCSW’18 workshop offers:
 
-* A traditional track, featuring:
-  * Technical papers focused on current topics in computer science and describing (preliminary) research results
-  * Tool papers describing the design, functionality and applicability of a software tool.
-<!--* An abstract track, for students who want to present initial unpublished work and results.-->
+* *A traditional track, featuring technical papers focused on current topics in computer science and describing (preliminary) research results; and tool papers describing the design, functionality and applicability of a software tool.
 * A poster session to display the works.
 
 
@@ -36,6 +33,7 @@ Areas of interest for the workshop cover all fields of research in computer scie
 
 <!--* Abstract submission:-->
 * Paper submission: 6<sup>th</sup> July. 2018
+* Notification of paper acceptance: 27 July 2018
 * Paper camera ready: TBC
 * Poster submission: 3<sup>rd</sup> August. 2018
 * Workshop: 20<sup>th</sup> and 21<sup>th</sup> Sept. 2018
@@ -44,15 +42,14 @@ Areas of interest for the workshop cover all fields of research in computer scie
 
 #### SUBMISSION
 
-Papers must be written in English, within page limits, and using the OASIcs template — please read carefully the typesetting instructions.
+Papers must be written in English, using the [OASIcs](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz) template and submitted through [https://easychair.org/conferences/?conf=iccsw18](https://easychair.org/conferences/?conf=iccsw18). 
 
 Page limits are as follows:
 
-* Traditional track: up to 8 pages, excluding references and clearly marked appendices.
-<!--* Abstract track: up to 2 pages, including references. No appendices allowed.-->
-* Poster session: A0 or A1 size, portrait or landscape
+* Traditional track: up to 6 pages, excluding references and clearly marked appendices.
+* Poster session: A1 size, portrait or landscape
 
-All accepted papers of ICCSW’s traditional track will (*__optionally__*) be published in the OpenAccess Series in Informatics by Schloss Dagstuhl ([OASIcs format](http://drops.dagstuhl.de/styles/oasics-v2016/oasics-v2016-authors.tgz)). If requested, accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'18.
+All accepted papers of ICCSW’s traditional track will (*__optionally__*) be published in the OpenAccess Series in Informatics by Schloss Dagstuhl. If requested, accepted papers will be given the possibility to publish only an abstract rather than the whole paper in the proceedings of ICCSW'18.
 
 At least one of the paper’s authors (student) must attend the workshop and present the work.
 
@@ -61,6 +58,11 @@ To ensure reviews are objective and meet academic standards, the steering commit
 
 All submission of papers and abstracts should be done via EasyChair at https://easychair.org/conferences/?conf=iccsw18.
 
+### Awards
+
+* Best paper
+* Best poster
+* Best talk
 
 ---
 

@@ -34,14 +34,10 @@ international forum for doctoral students to discuss a range of topics
 that are current in computer science research. The workshop welcomes all
 research students in the field of computer science.
 
-Following the success of the first five editions of the
-workshop&mdash;[ICCSW'17](http://iccsw.doc.ic.ac.uk/2018), 
-[ICCSW'15](http://iccsw.doc.ic.ac.uk/2015),
-[ICCSW'14](http://iccsw.doc.ic.ac.uk/2014),
-[ICCSW'13](http://iccsw.doc.ic.ac.uk/2013),
-[ICCSW'12](http://iccsw.doc.ic.ac.uk/2012) and
-[ICCSW'11](http://iccsw.doc.ic.ac.uk/2011)&mdash;the sixth workshop
-provides an excellent opportunity to share provocative ideas,
+Following the success of the sixth editions of the
+workshop&mdash;[ICCSW'17](http://iccsw.doc.ic.ac.uk/2017);
+<!--[ICCSW'15](http://iccsw.doc.ic.ac.uk/2015), [ICCSW'14](http://iccsw.doc.ic.ac.uk/2014), [ICCSW'13](http://iccsw.doc.ic.ac.uk/2013), [ICCSW'12](http://iccsw.doc.ic.ac.uk/2012) and [ICCSW'11](http://iccsw.doc.ic.ac.uk/2011)&mdash;-->
+the seventh workshop provides an excellent opportunity to share provocative ideas,
 interesting preliminary work, or a cool research directions that may
 change the world.
 
@@ -63,6 +59,24 @@ covering their ongoing research. The sixth edition of the workshop is
 currently being planned.
 
 The proceedings will be published as an [OpenAccess Series in Informatics](http://www.dagstuhl.de/en/publications/oasics) volume.
+
+#### IMPORTANT DATES
+
+<!--* Abstract submission:-->
+* Paper submission: 6<sup>th</sup> July. 2018
+* Notification of paper acceptance: 27 July 2018
+* Paper camera ready: TBC
+* Poster submission: 3<sup>rd</sup> August. 2018
+* Workshop: 20<sup>th</sup> and 21<sup>th</sup> Sept. 2018
+
+#### SUBMISSION
+
+Papers must be written in English, using the [OASIcs](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz) template and submitted through [https://easychair.org/conferences/?conf=iccsw18](https://easychair.org/conferences/?conf=iccsw18). 
+
+Page limits are as follows:
+
+* Traditional track: up to 6 pages, excluding references and clearly marked appendices.
+* Poster session: A1 size, portrait or landscape
 
 <!-- # Prize Winners
 

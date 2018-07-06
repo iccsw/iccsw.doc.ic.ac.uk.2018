@@ -63,10 +63,10 @@ The proceedings will be published as an [OpenAccess Series in Informatics](http:
 #### IMPORTANT DATES
 
 <!--* Abstract submission:-->
-* Paper submission: 6<sup>th</sup> July. 2018
-* Notification of paper acceptance: 27 July 2018
+* Paper submission: 20<sup>th</sup> July  2018
+* Notification of paper acceptance: 3<sup>rd</sup> August 2018
 * Paper camera ready: TBC
-* Poster submission: 3<sup>rd</sup> August. 2018
+* Poster submission: 3<sup>rd</sup> August  2018
 * Workshop: 20<sup>th</sup> and 21<sup>th</sup> Sept. 2018
 
 #### SUBMISSION

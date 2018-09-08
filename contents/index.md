@@ -66,7 +66,7 @@ The proceedings will be published as an [OpenAccess Series in Informatics](http:
 * Paper submission: 20<sup>th</sup> July  2018
 * Notification of paper acceptance: 3<sup>rd</sup> August 2018
 * Paper camera ready: TBC
-* Poster submission: 3<sup>rd</sup> August  2018
+* Poster submission: 7<sup>th</sup> September  2018
 * Workshop: 20<sup>th</sup> and 21<sup>th</sup> Sept. 2018
 
 #### SUBMISSION
@@ -77,6 +77,29 @@ Page limits are as follows:
 
 * Traditional track: up to 6 pages, excluding references and clearly marked appendices.
 * Poster session: A1 size, portrait or landscape
+
+
+
+<div id="eventbrite-widget-container-49892101619"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '49892101619',
+        iframeContainerId: 'eventbrite-widget-container-49892101619',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 
 <!-- # Prize Winners
 
@@ -113,12 +136,19 @@ Page limits are as follows:
 ### Supporters
 
 <div class="row" style="text-align: center;">
+
 <a href="http://www.imperial.ac.uk/">
   <img src="img/icl.png" style="height: 50px; margin:
 1em;" alt="Imperial College London"/>
 </a>
+
 <a href="http://www.dagstuhl.de/en/publications/oasics">
-  <img src="img/oasics.png"  style="height: 50px;
+  <img src="img/oasics.png"  style="height: 50px;http://asos.com/
+margin: 1em;" alt="OASIcs"/>
+</a>
+
+<a href="http://asos.com/">
+  <img src="img/asos_logo.png"  style="height: 50px;
 margin: 1em;" alt="OASIcs"/>
 </a>
 </div>

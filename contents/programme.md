@@ -4,55 +4,66 @@ template: page.jade
 ---
 
 ### To be announced
-all workshop events will take place at 180 queens gate in the huxley building, imperial college.
+All workshop events will take place at 180 queens gate in the huxley building, Imperial College London.
 
 ## Thursday, 20th September
 
-* **09:00 - 10:00**	registration
-* **10:00 - 10:20**	welcome
+* **09:00 - 10:00**	Registration
+* **10:00 - 10:30**	Welcome
 
-programming languages
-* **10:20 - 11:00**	**kjell winblad:** faster concurrent range queries with contention adapting search trees using immutable data
+Networks (Chair: Eva Graversen):
+* **10:30 - 11:00**	**C. H. Bryan Liu:** Speeding Up BigClam Implementation on SNAP
 
-* **11:00** - **11:30** tea and coffee break
+* **11:00** - **11:30** Break
 
-* **11:30** - **12:10**	**claudia cauli:** equivalence of probabilistic μ-calculus and p-automata
+* **11:30** - **12:30**	**Keynote:** Matthew Johnson
 
-lunch break **12:10** - **13:45**
+Lunch Break **12:30** - **13:30**
 
-keynote
+Networks Continued:
 
-* **14:00** - **15:00**	keynote: [**leszek swirski**](/2018/keynotes.html) optimizing the unoptimizable - a whirlwind tour of the v8 javascript engine.
+* **13:30** - **14:00**	**Ali Malik:** THRIFTY: Towards High Reduction In Flow Table memory 
+<!--keynote: [**leszek swirski**](/2018/keynotes.html) optimizing the unoptimizable - a whirlwind tour of the v8 javascript engine.-->
 
-tea and coffee break  **15:00** - **15:30**
+Big Data (Chair: Edoardo Pirovano):
+* **14:00** - **14:30**	**Gulsum Akkuzu:** Data-Driven Chinese Walls
 
-cloud and networking
-* **15:30** - **16:10** **ibrahim el-sanosi:**	improving the latency and throughput of zookeeper atomic broadcast
-* **16:10** - **16:30** **marco capuccini:**  kubenow: a cloud agnostic platform for microservice-oriented applications
-social event **1700 - 2130**. mystery social event and dinner...
+Break  **14:30** - **15:00**
+
+* **15:00** - **15:30** **Christina Diedhiou:** Comparison of Platforms for RecommenderAlgorithm on Large Datasets
+
+Large Datasets
+Data Mining (Chair: Riccardo Moriconi):
+* **15:30** - **16:00** **Wenbin Zhang:** A Hybrid Learning Framework for Imbalanced Stream Classification
+
+* **16:00** - **16:30** **Mashael Alzaid:** Predicting World Happiness Levels Using Data Mining Techniques
+
+Social event **16:30**
 
 ---
 
-## wedsnesday, 27th september
+## Friday, 21st September
 
-* **09:00** - **09:30**	registration
+* **09:00** - **09:30**	Registration
 
-breakfast poster session
-* **09:30** - **11:00** poster session
+* **09:30** - **11:00** Poster session
 
-morning session: machine learning
-* **11:00** - **11:40**	**veronica tozzo:** m hey there’s dalila: a dictionary learning library
-* **11:40** - **12:20**	**john stamford:** discriminative and generative models for clinical risk estimation: an empirical comparison
+Machine Learning (Chair: Simon Olofson):
+* **11:00** - **11:30**	**Alaa Mohasseb:** Towards Context-Aware Syntax Parsing and Tagging
 
-lunch break **12:20** - **13:45**
+* **11:30** - **12:00**	**Fatima Chiroma:** Evaluation of Rule-Based Learning and Feature Selection Approaches For Classification
 
-keynote
+* **12:00** - **12:30** **Bingnan Luo:** The iBUG Eye Segmentation Dataset
 
-* **14:00** - **15:00**	keynote: [**simon peyton jones**](/2018/keynotes.html) how to write a great paper.
+Lunch Break **12:30** - **13:30**
 
-tea and coffee break **15:00** - **15:30**
+<!--keynote-->
 
-afternoon session: machine learning
+* **13:30** - **14:30**	Keynote <!--: [**simon peyton jones**](/2018/keynotes.html) how to write a great paper.-->
+
+Break **14:30** - **15:00**
+
+<!--afternoon session: machine learning
 * **15:30** - **16:10** **alaa mohasseb:**	question classification using domain specific syntax lexicon based approach
-* **16:10** - **16:50** **christoph kurz:**  demand for medical care by the elderly: a nonparametric variational bayesian mixture approach
-* **17:00** - **17:20** 	closing remarks & prizes
+* **16:10** - **16:50** **christoph kurz:**  demand for medical care by the elderly: a nonparametric variational bayesian mixture approach-->
+* **15:00** - **15:30** Closing remarks & prizes

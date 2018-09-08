@@ -6,7 +6,7 @@ template: page.jade
 ### To be announced
 all workshop events will take place at 180 queens gate in the huxley building, imperial college.
 
-## tuesday, 26th september
+## Thursday, 20th September
 
 * **09:00 - 10:00**	registration
 * **10:00 - 10:20**	welcome
@@ -22,7 +22,7 @@ lunch break **12:10** - **13:45**
 
 keynote
 
-* **14:00** - **15:00**	keynote: [**leszek swirski**](/2017/keynotes.html) optimizing the unoptimizable - a whirlwind tour of the v8 javascript engine.
+* **14:00** - **15:00**	keynote: [**leszek swirski**](/2018/keynotes.html) optimizing the unoptimizable - a whirlwind tour of the v8 javascript engine.
 
 tea and coffee break  **15:00** - **15:30**
 
@@ -48,7 +48,7 @@ lunch break **12:20** - **13:45**
 
 keynote
 
-* **14:00** - **15:00**	keynote: [**simon peyton jones**](/2017/keynotes.html) how to write a great paper.
+* **14:00** - **15:00**	keynote: [**simon peyton jones**](/2018/keynotes.html) how to write a great paper.
 
 tea and coffee break **15:00** - **15:30**
 

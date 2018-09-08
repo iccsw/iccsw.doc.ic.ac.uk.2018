@@ -9,7 +9,6 @@
     "url": "https://github.com/iccsw/iccsw.doc.ic.ac.uk.2014.git"
   },
   "dependencies": {
-    "fsevents": "^1.2.3",
     "moment": "2.19.x",
     "npm": "^6.0.0",
     "typogr": "0.6.x",

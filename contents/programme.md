@@ -4,56 +4,55 @@ template: page.jade
 ---
 
 ### To be announced
-<!--All workshop events will take place at 180 Queens Gate in the Huxley Building, Imperial College.-->
+all workshop events will take place at 180 queens gate in the huxley building, imperial college.
 
-<!--## Tuesday, 26th September-->
+## tuesday, 26th september
 
-<!--* **09:00 - 10:00**	Registration-->
-<!--* **10:00 - 10:20**	Welcome-->
+* **09:00 - 10:00**	registration
+* **10:00 - 10:20**	welcome
 
-<!--[> (**Chair:**) <]-->
-<!--Programming Languages-->
-<!--* **10:20 - 11:00**	**Kjell Winblad:** Faster Concurrent Range Queries with Contention Adapting Search Trees Using Immutable Data-->
+programming languages
+* **10:20 - 11:00**	**kjell winblad:** faster concurrent range queries with contention adapting search trees using immutable data
 
-<!--* **11:00** - **11:30** Tea and Coffee Break-->
+* **11:00** - **11:30** tea and coffee break
 
-<!--* **11:30** - **12:10**	**Claudia Cauli:** Equivalence of Probabilistic μ-Calculus and p-Automata-->
+* **11:30** - **12:10**	**claudia cauli:** equivalence of probabilistic μ-calculus and p-automata
 
-<!--Lunch Break **12:10** - **13:45**-->
+lunch break **12:10** - **13:45**
 
-<!--Keynote-->
+keynote
 
-<!--* **14:00** - **15:00**	Keynote: [**Leszek Swirski**](/2017/keynotes.html) Optimizing the unoptimizable - A whirlwind tour of the V8 Javascript engine.-->
+* **14:00** - **15:00**	keynote: [**leszek swirski**](/2017/keynotes.html) optimizing the unoptimizable - a whirlwind tour of the v8 javascript engine.
 
-<!--Tea and Coffee Break  **15:00** - **15:30**-->
+tea and coffee break  **15:00** - **15:30**
 
-<!--Cloud and Networking-->
-<!--* **15:30** - **16:10** **Ibrahim El-Sanosi:**	Improving the Latency and Throughput of ZooKeeper Atomic Broadcast-->
-<!--* **16:10** - **16:30** **Marco Capuccini:**  KubeNow: a cloud agnostic platform for microservice-oriented applications-->
-<!--Social Event **1700 - 2130**. Mystery social event and dinner...-->
+cloud and networking
+* **15:30** - **16:10** **ibrahim el-sanosi:**	improving the latency and throughput of zookeeper atomic broadcast
+* **16:10** - **16:30** **marco capuccini:**  kubenow: a cloud agnostic platform for microservice-oriented applications
+social event **1700 - 2130**. mystery social event and dinner...
 
-<!------->
+---
 
-<!--## Wedsnesday, 27th September-->
+## wedsnesday, 27th september
 
-<!--* **09:00** - **09:30**	Registration-->
+* **09:00** - **09:30**	registration
 
-<!--Breakfast Poster Session-->
-<!--* **09:30** - **11:00** Poster Session-->
+breakfast poster session
+* **09:30** - **11:00** poster session
 
-<!--Morning Session: Machine Learning-->
-<!--* **11:00** - **11:40**	**Veronica Tozzo:** M Hey there’s DALILA: a DictionAry LearnIng LibrAry-->
-<!--* **11:40** - **12:20**	**John Stamford:** Discriminative and Generative models for clinical risk estimation: An empirical comparison-->
+morning session: machine learning
+* **11:00** - **11:40**	**veronica tozzo:** m hey there’s dalila: a dictionary learning library
+* **11:40** - **12:20**	**john stamford:** discriminative and generative models for clinical risk estimation: an empirical comparison
 
-<!--Lunch Break **12:20** - **13:45**-->
+lunch break **12:20** - **13:45**
 
-<!--Keynote-->
+keynote
 
-<!--* **14:00** - **15:00**	Keynote: [**Simon Peyton Jones**](/2017/keynotes.html) How to write a great paper.-->
+* **14:00** - **15:00**	keynote: [**simon peyton jones**](/2017/keynotes.html) how to write a great paper.
 
-<!--Tea and Coffee Break **15:00** - **15:30**-->
+tea and coffee break **15:00** - **15:30**
 
-<!--Afternoon session: Machine Learning-->
-<!--* **15:30** - **16:10** **Alaa Mohasseb:**	Question Classification Using Domain Specific Syntax Lexicon Based Approach-->
-<!--* **16:10** - **16:50** **Christoph Kurz:**  Demand for Medical Care by the Elderly: A Nonparametric Variational Bayesian Mixture Approach-->
-<!--* **17:00** - **17:20** 	Closing Remarks & Prizes-->
+afternoon session: machine learning
+* **15:30** - **16:10** **alaa mohasseb:**	question classification using domain specific syntax lexicon based approach
+* **16:10** - **16:50** **christoph kurz:**  demand for medical care by the elderly: a nonparametric variational bayesian mixture approach
+* **17:00** - **17:20** 	closing remarks & prizes

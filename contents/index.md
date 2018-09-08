@@ -147,7 +147,7 @@ Page limits are as follows:
 margin: 1em;" alt="OASIcs"/>
 </a>
 
-<a href="http://asos.com/">
+<a href="http://www.asos.com/">
   <img src="img/asos_logo.png"  style="height: 50px;
 margin: 1em;" alt="OASIcs"/>
 </a>

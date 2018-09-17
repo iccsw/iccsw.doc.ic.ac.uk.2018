@@ -59,7 +59,7 @@ Lunch Break **12:30** - **13:30**
 
 <!--keynote-->
 
-* **13:30** - **14:30**	Keynote <!--: [**simon peyton jones**](/2018/keynotes.html) how to write a great paper.-->
+* **13:30** - **14:30**	**Keynote:** Richard Evans <!--: [**simon peyton jones**](/2018/keynotes.html) how to write a great paper.-->
 
 Break **14:30** - **15:00**
 

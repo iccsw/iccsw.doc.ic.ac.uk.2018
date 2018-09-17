@@ -3,7 +3,7 @@ title: Location
 template: page.jade
 ---
 
-All workshop events takes place in the Huxley building at 180 Queen's Gate, SW7 2AZ. Rooms to be announced.
+All workshop events takes place in the Huxley building at 180 Queen's Gate, SW7 2AZ. Rooms 217-218.
 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1wcFZOFjE8pElkASweKHdcIBNlb0" width="740" height="320" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
